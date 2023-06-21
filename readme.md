@@ -33,4 +33,4 @@ The OpenAI API key is set as an environment variable.
 8. The chat histories stored in the conversation buffer memories are displayed in expandable sections using st.expander() and st.info().
 9. Feel free to explore the code and modify it according to your needs!
 
-![output image](D:\LangChain\celebrity-search-application\output.png)
+![output image](output.png)
